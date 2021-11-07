@@ -15,10 +15,11 @@ Esse Script e Recriaçao <br />
 ArthurZinMaker Programador Agradeçe
 <br />
 # Suporte das Maquinas
-|Sistema da Maquina |Versao   |Suportado             | Recomendado        | Notas                                |
-| ----------------- | ------- | -------------------- | ------------------ | ------------------------------------ |
-| Ubuntu            | 20.04   | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
-| Debian            | 10      | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
-| CentOS            | Stream  | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
-| RHEL              | 8       | :heavy_check_mark:   | :red_circle:       |   ArthurZinMaker                     |
-| Fedora            | 33      | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
+|Sistema da Maquina |Versao   |Suportado             | Recomendado        | Notas                                   |
+| ----------------- | ------- | -------------------- | ------------------ | ----------------------------------------|
+| Ubuntu            | 20.04   | :heavy_check_mark:   | :heavy_check_mark: |   Super Recomendado                     |
+| Ubuntu            | 18.04   | :heavy_check_mark:   | :heavy_check_mark: |   Super Recomendado                     |
+| Ubuntu            | 16.04   | :heavy_check_mark:   | :heavy_check_mark: |   Super Recomendado                     |
+| Debian            | 10      | :heavy_check_mark:   | :heavy_check_mark: |   Super Recomendado                     |
+| CentOS            | Stream  | :heavy_check_mark:   | :heavy_check_mark: |   Super Recomendado                     |
+| RHEL              | 8       | :heavy_check_mark:   | :red_circle:       |   Nao Recomando Muito                   |
