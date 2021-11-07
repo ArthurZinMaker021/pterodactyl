@@ -7,7 +7,12 @@ Coloque "Sudo Su" antes de qualquer comando porfavor <br />
 Whatsapp Suporte: https://wa.me//+5521984468174 <br />
 Discord: Em Breve... <br />
 
+Qualquer suporte ou duvida ou erros na instalacao Suporte no Whatsapp em breve no Discord
 <br />
+# Instalar Pterodactyl
+Esse Script e Recriaçao <br />
+<br>
+ArthurZinMaker Programador Agradeçe
 <br />
 # Suporte das Maquinas
 |Sistema da Maquina |Versao   |Suportado             | Recomendado        | Notas                                |
@@ -17,5 +22,3 @@ Discord: Em Breve... <br />
 | CentOS            | Stream  | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
 | RHEL              | 8       | :heavy_check_mark:   | :red_circle:       |   ArthurZinMaker                     |
 | Fedora            | 33      | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
-
-
