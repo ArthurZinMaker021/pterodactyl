@@ -1,5 +1,21 @@
-# pterodactyl
-Instalacao de pterodactyl
+# Pterodactyl-Script
+Instalando Pterodactyl em Minutos <br />
+Coloque "Sudo Su" antes de qualquer comando porfavor <br />
+<br />
+`bash <(curl -sSL https://github.com/ArthurZinMaker021/pterodactyl/releases/download/1.0/install.sh)` <br />
+<br />
+Whatsapp Suporte: https://wa.me//+5521984468174 <br />
+Discord: Em Breve... <br />
 
-bash <(curl -sSL https://github.com/ArthurZinMaker021/pterodactyl/releases/download/1.0/install.sh)
+<br />
+<br />
+# Suporte das Maquinas
+|Sistema da Maquina |Versao   |Suportado             | Recomendado        | Notas                                |
+| ----------------- | ------- | -------------------- | ------------------ | ------------------------------------ |
+| Ubuntu            | 20.04   | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
+| Debian            | 10      | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
+| CentOS            | Stream  | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
+| RHEL              | 8       | :heavy_check_mark:   | :red_circle:       |   ArthurZinMaker                     |
+| Fedora            | 33      | :heavy_check_mark:   | :heavy_check_mark: |   ArthurZinMaker                     |
+
 
